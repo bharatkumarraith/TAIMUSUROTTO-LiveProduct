@@ -1,0 +1,44 @@
+.example-card {
+    max-width: 380px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+   
+  }
+  
+
+  #ca{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+   
+  
+  }
+  #se{
+    width: 300px;
+    font-weight: bold;
+
+    margin-left: 180px;
+    margin-top: 50px;
+  }
+  #im{
+    width:300px;
+    margin-right:100px ;
+  }
+  #ti{
+    color: rgb(231, 17, 52);
+    font-weight: bold;
+    margin-left: 100px;
+  }
+  #last{
+    background-color:black;
+    padding: 14px;
+    color: white;
+    margin-top: 100px;
+    position: relative;
+    top:-6px
+   
+  }
+  #cp{
+    margin-left: 600px;
+  }

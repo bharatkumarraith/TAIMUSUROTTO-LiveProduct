@@ -1,0 +1,34 @@
+{
+    "bussiness": [
+      {
+        "name": "RESTURANTS",
+        "url":"https://tse2.mm.bing.net/th?id=OIP.QQfNQ60O4xZhQhj0hYeZ7gHaE8&pid=Api&P=0"
+    
+      },
+      {
+        "name": "HOTELS",
+        "url":"https://tse4.mm.bing.net/th?id=OIP.nqjepap_ms9vARcpmbIAmgHaEK&pid=Api&P=0"
+    
+      },
+      {
+        "name": "HOMESERVICES",
+        "url":"https://tse3.mm.bing.net/th?id=OIP.Lsok-MlGLBhOgCAso1orQgHaE8&pid=Api&P=0"
+    
+      },
+      {
+        "name": "AUTOSERVICES",
+        "url":"https://tse4.mm.bing.net/th?id=OIP.m7xRhQPK9afr--4hVC4FJAHaE7&pid=Api&P=0"
+    
+      },
+      {
+        "name": "ENTERTAINMENT",
+        "url":"https://tse4.mm.bing.net/th?id=OIP.E9Sc-th1YSVt2XxAcNLBsAHaE7&pid=Api&P=0"
+    
+      },
+      {
+        "name": "BEAUTY",
+        "url":"https://tse2.mm.bing.net/th?id=OIP.cAyyC4r5u5r9sktx_PiClgHaE8&pid=Api&P=0"
+    
+      }
+    ]
+}

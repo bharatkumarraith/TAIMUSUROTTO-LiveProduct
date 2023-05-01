@@ -1,0 +1,48 @@
+<mat-form-field appearance="fill" id="se">
+  <input matInput required minlength="3" [(ngModel)]="address" type="text" (ngModelChange)="search()" #titles="ngModel"
+    placeholder="Search By City">
+</mat-form-field>
+<mat-form-field appearance="fill" id="see">
+  <input matInput required minlength="3" [(ngModel)]="rating" type="text" (ngModelChange)="searchh()" #titles="ngModel"
+    placeholder="Search By Rating">
+</mat-form-field>
+<mat-form-field appearance="fill" id="sea">
+  <input matInput required minlength="3" [(ngModel)]="price" type="text" (ngModelChange)="searchhh()" #titles="ngModel"
+    placeholder="Search By Price">
+</mat-form-field>
+
+<div id="ca">
+  <mat-card class="example-card" *ngFor="let res of hotel">
+
+    <mat-card-header>
+
+      <mat-card-title id="ti">{{res.name}}</mat-card-title>
+      <mat-card-title id="pr">{{res.price}}</mat-card-title>
+      <mat-card-title>{{res.address}}</mat-card-title>
+      <mat-card-subtitle>{{res.phonenumber}}</mat-card-subtitle>
+    </mat-card-header>
+    <img src="{{res.url}}" alt="Photo of a Shiba Inu">
+    <mat-card-content>
+      <p>
+        A hotel is defined by the British Law as a ‘place where bonafide travelers can receive food or shelter, provided
+        he/she is in a position to pay for it and is in a fit condition to be received‘. Hence, a hotel must provide
+        food (and beverage) and lodging to a traveler on payment, but the hotel has the right to refuse if the traveler
+        is not presentable (either drunk, or disorderly, or unkempt) or is not in a position to pay for the services.
+      </p>
+    </mat-card-content>
+
+    <mat-card-actions>
+      <button id="ra" mat-button>{{res.rating}}</button>
+
+      <button (click)="book()" mat-raised-button color="accent">BOOK NOW</button>
+    </mat-card-actions>
+
+  </mat-card>
+</div>
+
+<div id="last">
+  <footer>
+    <h3 id="cp">© 2021 Copyright: Services.com</h3>
+  </footer>
+
+</div>

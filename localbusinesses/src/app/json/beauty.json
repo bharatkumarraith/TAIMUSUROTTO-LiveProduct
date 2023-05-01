@@ -1,0 +1,101 @@
+{
+    "beauty": [
+      {
+        "name": "MANE MESS",
+        "phonenumber": 787654345,
+        "price": "$4999",
+        "rating":"5*****",
+        "address":"Bangalore",
+        "url":"https://tse2.mm.bing.net/th?id=OIP.rknSDPh-E7WZjPatxmzsYwHaE8&pid=Api&P=0"
+      },
+      {
+        "name": "GLOSS + FLOSS",
+        "phonenumber": 9876543456,
+        "price": "$3999",
+        "rating":"3***",
+        "address":"Mumbai",
+        "url":"https://tse3.explicit.bing.net/th?id=OIP.iDS_9d_1ub0A8Sa2mvbHsQHaD4&pid=Api&P=0"
+      },
+      {
+        "name": "SLICKME",
+        "phonenumber": 9878654345,
+        "price": "$4999",
+        "rating":"5*****",
+        "address":"Chennai",
+        "url":"https://tse3.mm.bing.net/th?id=OIP.D5KWv-PbDUbXCy_TzG78VQHaEK&pid=Api&P=0"
+      },
+      {
+        "name": "MANETAME",
+        "phonenumber": 98765434567,
+        "price": "$2999",
+        "rating":"4****",
+        "address":"Bangalore",
+        "url":"https://tse3.mm.bing.net/th?id=OIP.WOt-PfhTKuCitD6RVQWdhwHaEH&pid=Api&P=0"
+      },
+      {
+        "name": "CURL COPNTROLLER",
+        "phonenumber": 6787654345,
+        "price": "$4999",
+        "rating":"3***",
+        "address":"Mumbai",
+        "url":"https://tse2.mm.bing.net/th?id=OIP.CNahbY6ehgwpQx91M6Ve_AHaE8&pid=Api&P=0"
+      },
+      {
+        "name": "TEXTURE QUEEN",
+        "phonenumber": 987654567,
+        "price": "$5999",
+        "rating":"5*****",
+        "address":"Bangalore",
+        "url":"https://tse3.mm.bing.net/th?id=OIP._YwBtJqyutXS95BjPzXxmwHaDp&pid=Api&P=0"
+      },
+      {
+        "name": "NOURISHIRE",
+        "phonenumber": 9878654567,
+        "price": "$4000",
+        "rating":"5*****",
+        "address":"Chennai",
+        "url":"https://tse1.mm.bing.net/th?id=OIP.KwIhTY_ViMx9Y4n0grd7qwHaEc&pid=Api&P=0"
+      },
+      {
+        "name": "TRESSFULL",
+        "phonenumber": 787654345,
+        "price": "$2999",
+        "rating":"4****",
+        "address":"Mumbai",
+        "url":"https://tse2.explicit.bing.net/th?id=OIP.3BRs4fbZHeaPdsTTV5v8fwAAAA&pid=Api&P=0"
+      },
+      {
+        "name": "VOLUMINAIRE",
+        "phonenumber": 9876543456,
+        "price": "$3000",
+        "rating":"5*****",
+        "address":"Chennai",
+        "url":"https://tse3.mm.bing.net/th?id=OIP.eYJ5RzbShmWw3znon9vS0AAAAA&pid=Api&P=0"
+      },
+      {
+      "name": "COOL NATE",
+      "phonenumber": 787654345,
+      "price": "$5000",
+      "rating":"5*****",
+      "address":"Bangalore",
+      "url":"https://tse3.mm.bing.net/th?id=OIP.tdoOPNbDCcKxahBIJUjaBAHaCP&pid=Api&P=0"
+    },
+    {
+      "name": "HAIRLOGOIST",
+      "phonenumber": 9876567899,
+      "price": "$6000",
+      "rating":"4****",
+      "address":"Bangalore",
+      "url":"https://tse1.mm.bing.net/th?id=OIP.7GDWwxrznKeV_LjipSbSGwHaE8&pid=Api&P=0"
+    },
+    {
+      "name": "LOTUS",
+      "phonenumber": 787654345,
+      "price": "$5000",
+      "rating":"5*****",
+      "address":"Mumbai",
+      "url":"https://tse3.mm.bing.net/th?id=OIP.cRHo00naTWkDRnPA9TltagHaDx&pid=Api&P=0"
+    }
+  
+    ]
+}

@@ -1,0 +1,80 @@
+<mat-form-field appearance="fill" id="se">
+  <input matInput  required minlength="3" [(ngModel)]="name" type="text" (ngModelChange)="search()"
+  #titles="ngModel" placeholder="Search By Service You Need">
+  </mat-form-field>
+  <div id="ca">
+    <mat-card class="example-card">
+  
+   <img src="../../assets/home1.gif">
+  
+      </mat-card>
+      <div id="ca">
+        <mat-card class="example-card">
+      
+       <img src="../../assets/hotels.gif">
+      
+          </mat-card>
+      </div>
+      <div id="ca">
+        <mat-card class="example-card">
+      
+       <img src="../../assets/restuar.gif">
+      
+          </mat-card>
+      </div>
+  </div>
+
+
+<div id="ca">
+  <mat-card class="example-card" *ngFor="let res of business">
+
+      <mat-card-header>
+      
+        <mat-card-title id="ti">{{res.name}}</mat-card-title>
+        
+     
+      </mat-card-header>
+      <img  src="{{res.url}}">
+      <!-- <img  src="{{res.url}}" alt="Photo of a Shiba Inu"> -->
+  
+    
+      <mat-card-actions>
+     
+
+        <button (click)="book(res.name)" mat-raised-button color="primary">BOOK NOW</button>
+      </mat-card-actions>
+
+    </mat-card>
+</div>
+
+<div id="ca">
+  <mat-card class="example-card">
+
+ <img src="https://tse3.explicit.bing.net/th?id=OIP._3_KWD3eBSmgsN5RtIutRAHaEK&pid=Api&P=0">
+
+    </mat-card>
+    <div id="ca">
+      <mat-card class="example-card">
+    
+     <img src="https://tse1.mm.bing.net/th?id=OIP.r3v9oYJ8SHTGgIcM_de99wHaFB&pid=Api&P=0">
+    
+        </mat-card>
+    </div>
+    <div id="ca">
+      <mat-card class="example-card">
+    
+     <img src="https://tse4.mm.bing.net/th?id=OIP.VuD1ELotFVL1Wwbki3SO0gHaE8&pid=Api&P=0">
+    
+        </mat-card>
+    </div>
+</div>
+<div id="last">
+<footer>
+  <h3 id="cp">© 2021 Copyright: Services.com</h3>
+</footer>
+
+</div>
+
+
+
+

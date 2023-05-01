@@ -1,0 +1,28 @@
+div{
+    background-color: rgb(51, 51, 162);
+    padding:36px;
+    
+}
+.one{
+    float: right;
+    margin-top: -18px;
+  color: beige;
+  background-color:black;
+  padding: 7px;
+  border-radius: 9px;
+  font-size: 19px;
+}
+H2{
+    margin-top: -80PX;
+    margin-left: 80PX;
+color: white;
+font-size: 23px;
+
+
+}
+#u{
+    position: relative;
+    top: -48px;
+    left:50px;
+    color: white;
+}

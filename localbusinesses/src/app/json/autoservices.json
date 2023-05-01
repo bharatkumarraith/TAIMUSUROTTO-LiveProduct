@@ -1,0 +1,101 @@
+{
+  "autoservices": [
+    {
+      "name": "WHEELS KING",
+      "phonenumber": 787654345,
+      "price": "$5000",
+      "rating":"5*****",
+      "address":"Bangalore",
+      "url":"https://tse4.mm.bing.net/th?id=OIP.8acMdAJl0y6Gd29dF3znYgHaEo&pid=Api&P=0"
+    },
+    {
+      "name": "CAR INTEL",
+      "phonenumber": 9876543456,
+      "price": "$7000",
+      "rating":"3***",
+      "address":"Mumbai",
+      "url":"https://tse4.mm.bing.net/th?id=OIP.bPWUwTzvkpTS5SYOqg8gDAHaE8&pid=Api&P=0"
+    },
+    {
+      "name": "KING MECHANIC",
+      "phonenumber": 9878654345,
+      "price": "$5999",
+      "rating":"5*****",
+      "address":"Chennai",
+      "url":"https://tse1.mm.bing.net/th?id=OIP.7Ck1JMd7U6bIFlmm1YC8kgHaEK&pid=Api&P=0"
+    },
+    {
+      "name": "MARVEL AUTOS",
+      "phonenumber": 98765434567,
+      "price": "$6999",
+      "rating":"4****",
+      "address":"Bangalore",
+      "url":"https://tse4.mm.bing.net/th?id=OIP.5OGzI_O-Z1EyHwBuN3mElQHaE-&pid=Api&P=0"
+    },
+    {
+      "name": "THE CAR GUYS",
+      "phonenumber": 6787654345,
+      "price": "$7999",
+      "rating":"3***",
+      "address":"Mumbai",
+      "url":"https://tse2.mm.bing.net/th?id=OIP.V0hcpDZvhOnho21p0IxcVAHaFc&pid=Api&P=0"
+    },
+    {
+      "name": "EXTRA MILE",
+      "phonenumber": 987654567,
+      "price": "$8999",
+      "rating":"5*****",
+      "address":"Bangalore",
+      "url":"https://tse2.mm.bing.net/th?id=OIP.Z9mvXFCSJw43j4K6w61eGwHaE9&pid=Api&P=0"
+    },
+    {
+      "name": "WRENCH KING",
+      "phonenumber": 9878654567,
+      "price": "$8999",
+      "rating":"5*****",
+      "address":"Chennai",
+      "url":"https://tse1.mm.bing.net/th?id=OIP.VVUAWF0Qj7a_P8Zn92JEBgHaDo&pid=Api&P=0"
+    },
+    {
+      "name": "AUTO CRAFT",
+      "phonenumber": 787654345,
+      "price": "$9999",
+      "rating":"4****",
+      "address":"Mumbai",
+      "url":"https://tse2.mm.bing.net/th?id=OIP.NlSkR_BSSikhjLTKa1p2lQAAAA&pid=Api&P=0"
+    },
+    {
+      "name": "SONS AUTO CENTER",
+      "phonenumber": 9876543456,
+      "price": "$10000",
+      "rating":"5*****",
+      "address":"Chennai",
+      "url":"https://tse3.mm.bing.net/th?id=OIP.tDT5JoK0knLnQlghQF9vJAHaE9&pid=Api&P=0"
+    },
+    {
+    "name": "CAR ZONE",
+    "phonenumber": 787654345,
+    "price": "$9000",
+    "rating":"5*****",
+    "address":"Bangalore",
+    "url":"https://tse2.mm.bing.net/th?id=OIP.cjFkMku9GDF_8DEVANamdgHaE8&pid=Api&P=0"
+  },
+  {
+    "name": "AUTO CARE",
+    "phonenumber": 9876567899,
+    "price": "$8000",
+    "rating":"4****",
+    "address":"Bangalore",
+    "url":"https://tse2.mm.bing.net/th?id=OIP.f3M_wm8-B5RjwB7k1IQkwQHaEK&pid=Api&P=0"
+  },
+  {
+    "name": "SAM'S CAR CLINIC",
+    "phonenumber": 787654345,
+    "price": "$7000",
+    "rating":"5*****",
+    "address":"Mumbai",
+    "url":"https://tse2.mm.bing.net/th?id=OIP.A5HjZTIpeKWzyJ9Kh6Qf6QHaEh&pid=Api&P=0"
+  }
+
+  ]
+}
